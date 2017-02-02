@@ -35,7 +35,8 @@ List of technical resources I plan to read/watch/listen, but probably won't.
 * [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/book.pdf)
 * [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
 * [High Performance Browser Networking](https://hpbn.co/)
-
+* [Site Reliability Engineering by Google](https://landing.google.com/sre/book.html)
+* [How to Design Programs](http://www.htdp.org/)
 ### Courses
 * [Functional Programming and Design in Clojure](http://www.eli.sdsu.edu/courses/fall15/cs696/notes/index.html)
 
