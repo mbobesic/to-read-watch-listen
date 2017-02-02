@@ -14,6 +14,9 @@ List of technical resources I plan to read/watch/listen, but probably won't.
     * [Part 4: Streams and Observables](http://vixra.org/abs/1607.0141)
     * [Part 5: Non-Linear Models and the EKF](http://vixra.org/abs/1607.0084)
     * [Part 7: A Small Streams Library](http://vixra.org/abs/1607.0083)
+* AI Memo
+    * [HAKMEM](http://w3.pppl.gov/~hammett/work/2009/AIM-239-ocr.pdf)
+    * [Lambda Papers](http://library.readscheme.org/page1.html)
 
 
 ### Books
