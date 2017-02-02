@@ -1,6 +1,18 @@
 # to-read-watch-listen
 List of technical resources I plan to read/watch/listen, but probably won't.
 
+### Talks
+* [Data-Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc)
+* [How to program independent games](https://www.youtube.com/watch?v=JjDsP5n2kSM)
+* [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
+* [What Programming is Never About](https://www.youtube.com/watch?v=Lzc3HcIgXis)
+* [Jeff and Casey's Guide to Becomming a Bigger Programmer](https://mollyrocket.com/jacs/jacs_0004_0016.html)
+* [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
+* [Using REPL driven development](https://skillsmatter.com/skillscasts/8063-using-repl-driven-development)
+* [We Really Don't Know How To Compute](https://www.infoq.com/presentations/We-Really-Dont-Know-How-To-Compute)
+* [Papers We Love: Parsing With Derivatives](http://paperswelove.org/2016/video/david-nolen-parsing-with-derivatives/)
+* [Clients in control: building demand-driven systems with Om Next](https://www.youtube.com/watch?v=Zb18iPjDgwM)
+
 ### Articles
 * [Design Principles and Design Patterns](http://mil-oss.org/resources/objectmentor_design-principles-and-design-patterns.pdf)
 * [The Discoveries of Continuations](https://cs.au.dk/~hosc/local/LaSC-6-34-pp233-248.pdf)
