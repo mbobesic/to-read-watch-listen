@@ -12,8 +12,10 @@ List of technical resources I plan to read/watch/listen, but probably won't.
 * [We Really Don't Know How To Compute](https://www.infoq.com/presentations/We-Really-Dont-Know-How-To-Compute)
 * [Papers We Love: Parsing With Derivatives](http://paperswelove.org/2016/video/david-nolen-parsing-with-derivatives/)
 * [Clients in control: building demand-driven systems with Om Next](https://www.youtube.com/watch?v=Zb18iPjDgwM)
+* [Cleaning the Tar: Using React within the Firefox Developer Tools](https://www.youtube.com/watch?v=qUlRpybs7_c)
 
 ### Articles
+* [What are the disadvantages of storing all your state in a single immutable atom?](https://github.com/reactjs/redux/issues/1385)
 * [Design Principles and Design Patterns](http://mil-oss.org/resources/objectmentor_design-principles-and-design-patterns.pdf)
 * [The Discoveries of Continuations](https://cs.au.dk/~hosc/local/LaSC-6-34-pp233-248.pdf)
 * [Rules of ML: Best Practices](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
@@ -37,9 +39,12 @@ List of technical resources I plan to read/watch/listen, but probably won't.
 * [High Performance Browser Networking](https://hpbn.co/)
 * [Site Reliability Engineering by Google](https://landing.google.com/sre/book.html)
 * [How to Design Programs](http://www.htdp.org/)
+
 ### Courses
 * [Functional Programming and Design in Clojure](http://www.eli.sdsu.edu/courses/fall15/cs696/notes/index.html)
 
+### Tutorial
+* [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial/)
 
 ### Collections
 * http://okmij.org/ftp/
