@@ -5,7 +5,6 @@ List of technical resources I plan to read/watch/listen, but probably won't.
 * [Data-Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 * [How to program independent games](https://www.youtube.com/watch?v=JjDsP5n2kSM)
 * [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
-* [What Programming is Never About](https://www.youtube.com/watch?v=Lzc3HcIgXis)
 * [Jeff and Casey's Guide to Becomming a Bigger Programmer](https://mollyrocket.com/jacs/jacs_0004_0016.html)
 * [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
 * [Using REPL driven development](https://skillsmatter.com/skillscasts/8063-using-repl-driven-development)
