@@ -5,7 +5,6 @@ List of technical resources I plan to read/watch/listen, but probably won't.
 * [Data-Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 * [How to program independent games](https://www.youtube.com/watch?v=JjDsP5n2kSM)
 * [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
-* [What Programming is Never About](https://www.youtube.com/watch?v=Lzc3HcIgXis)
 * [Jeff and Casey's Guide to Becomming a Bigger Programmer](https://mollyrocket.com/jacs/jacs_0004_0016.html)
 * [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
 * [Using REPL driven development](https://skillsmatter.com/skillscasts/8063-using-repl-driven-development)
@@ -31,6 +30,9 @@ List of technical resources I plan to read/watch/listen, but probably won't.
     * [HAKMEM](http://w3.pppl.gov/~hammett/work/2009/AIM-239-ocr.pdf)
     * [Lambda Papers](http://library.readscheme.org/page1.html)
 
+* [The price of anarchy in basketball](https://arxiv.org/abs/0908.1801)
+* [Basketball Teams as Strategic Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3490980/)
+* [Evaluating Basketball Player Performance via Statistical Network Modeling](http://www.jamesmpiette.com/papers/Evaluating%20Basketball%20Player%20Performance%20via%20Statistical%20Network%20Modeling.pdf)
 
 ### Books
 * [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/book.pdf)
