@@ -16,7 +16,6 @@ List of technical resources I plan to read/watch/listen, but probably won't.
 
 ### Articles
 * [What are the disadvantages of storing all your state in a single immutable atom?](https://github.com/reactjs/redux/issues/1385)
-* [Design Principles and Design Patterns](http://mil-oss.org/resources/objectmentor_design-principles-and-design-patterns.pdf)
 * [The Discoveries of Continuations](https://cs.au.dk/~hosc/local/LaSC-6-34-pp233-248.pdf)
 * [Rules of ML: Best Practices](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 * [The Essence of Event-Driven Programming](http://www.cis.upenn.edu/~jpaykin/papers/pkz_CONCUR_2016.pdf)
